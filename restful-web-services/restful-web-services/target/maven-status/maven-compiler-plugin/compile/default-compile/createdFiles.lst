@@ -1,0 +1,6 @@
+com\krishna\rest\webservices\restful_web_services\helloworld\HelloWorldController.class
+com\krishna\rest\webservices\restful_web_services\user\DaoService.class
+com\krishna\rest\webservices\restful_web_services\user\User.class
+com\krishna\rest\webservices\restful_web_services\user\UserRescource.class
+com\krishna\rest\webservices\restful_web_services\helloworld\HelloWorldBean.class
+com\krishna\rest\webservices\restful_web_services\RestfulWebServicesApplication.class
